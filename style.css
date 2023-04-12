@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.helpDiv{
+    position: absolute;
+    color:whitesmoke;
+    padding: 30px;
+    font-size: 20px;
+}
+
+.about{
+    position:fixed;
+    bottom: 20px;
+    right: 20px;
+    color: whitesmoke;
+}
